@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " jQuery and AJAX are the Best"
-date:       2018-01-19 18:26:16 +0000
+date:       2018-01-19 13:26:17 -0500
 permalink:  jquery_and_ajax_are_the_best
 ---
 
